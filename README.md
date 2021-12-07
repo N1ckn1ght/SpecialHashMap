@@ -16,4 +16,4 @@
 
 Так как в качестве ключа всегда подаётся std::string, указываеть в параметрах нужно лишь тип значения, например:
 
-SpecialHashMap<double> map;
+SpecialHashMap\<double\> map;
