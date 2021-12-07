@@ -11,3 +11,5 @@
 2) В качестве разделителя для условия могут выступать не просто любые символы, но и qwertyuiopasdfghjklzxcvbnm (хоть весь набор клавиатуры).
 
 Код был протестирован на тестах UnitTest.cpp, результат работы тестов: https://i.imgur.com/hnqLaLO.png
+
+Сам класс-расширение хранится в SpecialHashMap/SpecialHashMap.h, использует класс SpecialHashMap/Pair.h.
